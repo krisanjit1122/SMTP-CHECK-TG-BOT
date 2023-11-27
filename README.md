@@ -22,3 +22,6 @@ If the connection fails due to invalid credentials, we simply ignore the server 
 Finally, we start the bot using the bot.polling() method, which continuously checks for new messages and triggers the appropriate handlers.
 
 With this code, you can create a Telegram bot that validates SMTP servers based on user-provided information.
+
+Developed By T.me/K_HACKER_ANONYMOUS 
+copyright MR.KRISANJIT
