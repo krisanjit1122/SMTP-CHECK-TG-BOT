@@ -23,5 +23,8 @@ Finally, we start the bot using the bot.polling() method, which continuously che
 
 With this code, you can create a Telegram bot that validates SMTP servers based on user-provided information.
 
-Developed By T.me/K_HACKER_ANONYMOUS 
-copyright MR.KRISANJIT
+Developed By MR.KRISANJIT 
+
+https://t.me/K_HACKER_ANONYMOUS
+
+Copyright MR.KRISANJIT
